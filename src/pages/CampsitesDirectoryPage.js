@@ -1,5 +1,5 @@
 import { Container } from "reactstrap";
-import CampsitesList from "../features/campsites/CampsitesList";
+import CampsitesList from "../features/campsites/CampsitesLists";
 import SubHeader from "../components/SubHeader";
 
 const CampsitesDirectoryPage = () => {
